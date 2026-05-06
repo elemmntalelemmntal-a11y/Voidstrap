@@ -8,6 +8,12 @@
     <img src="https://raw.githubusercontent.com/voidstrap/Voidstrap/main/Bloxstrap/Voidstrap.png" alt="preview" width="100px"/>
 </p>
 
+<h1 align="center"><b>Voidstrap</b></h1>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/KloBraticc/RandomMods/main/Untitled%20design%20(2)-Photoroom.png" alt="preview" width="100%"/>
+</p>
+
 <div align="center">
 
 [![License][shield-repo-license]][repo-license]
